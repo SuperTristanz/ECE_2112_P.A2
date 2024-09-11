@@ -27,7 +27,7 @@
 ##### The provided Python code demonstrates the process of identifying elements divisible by 3 within a 10x10 NumPy array containing the squares of the first 100 positive integers. By importing the NumPy library, the code gains access to essential functions for array manipulation and mathematical operations. The creation of an array of squares using np.linspace and subsequent reshaping into a 10x10 matrix establishes the dataset for analysis.
 
 ##### The code iterates through each element of the array, checking for divisibility by 3 using the modulo operator (%). Elements divisible by 3 are appended to a list named div_by_3. The resulting list is then saved to a .npy file named "div_by_3.npy" using np.save(). This file can be loaded back using np.load() for future reference or analysis.
-### Code:
+### Sample Code:
 ### ![image](https://github.com/user-attachments/assets/90423ed6-e1ed-4cf7-a413-d6492c3d6072)
 
 ### Output: 
