@@ -38,3 +38,11 @@
 ### Output: 
 ### ![image](https://github.com/user-attachments/assets/39c64e9c-1bf6-451f-9796-0d52352fc2cb)
 
+### Author: 
+#####  - Angostora, Tristan Zeth
+
+### Revisions: 
+##### - Fixing the indices in the code
+##### - Adding mark down and texts
+##### - Fixing the Texts
+
